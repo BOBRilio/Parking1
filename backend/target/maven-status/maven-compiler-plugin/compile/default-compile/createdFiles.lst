@@ -1,0 +1,5 @@
+com\parking\backend\ParkingBackendApplication.class
+com\parking\backend\entity\Booking.class
+com\parking\backend\entity\Car.class
+com\parking\backend\entity\Owner.class
+com\parking\backend\entity\ParkingSpot.class
